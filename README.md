@@ -47,5 +47,5 @@ These projects were completed as part of:
 ## 📬 Contact
 
 If you're interested in connecting or reviewing more work:  
-**Email:** db.dudekula@gmail.com
+**Email:** db.dudekula@gmail.com<br>
 **LinkedIn:** www.linkedin.com/in/db-dudekula/
