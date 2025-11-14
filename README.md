@@ -41,3 +41,11 @@ These projects were completed as part of:
 
 - Turing College – Data Science Career Program (project-based, review-driven training)  
 - Independent practice  
+
+---
+
+## 📬 Contact
+
+If you're interested in connecting or reviewing more work:  
+**Email:** db.dudekula@gmail.com
+**LinkedIn:** www.linkedin.com/in/db-dudekula/
