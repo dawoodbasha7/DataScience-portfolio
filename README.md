@@ -19,7 +19,6 @@ Each folder represents a self-contained project and includes:
 
 ## 📌 Featured Projects
 
-*(Add links after you upload the folders)*
 
   
 
@@ -42,4 +41,3 @@ These projects were completed as part of:
 
 - Turing College – Data Science Career Program (project-based, review-driven training)  
 - Independent practice  
-- Real client/freelance work (where permitted)  
