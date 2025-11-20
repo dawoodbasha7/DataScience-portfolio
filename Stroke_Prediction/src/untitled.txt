@@ -1,0 +1,34 @@
+1. Univariate Analysis
+
+    1.1 Numerical columns
+        * I have checked mean/median values of numerical columns for stroke = 1/0. Plus plot these descriptive stats of individual compasion of groups.
+            Based on the results, we will test hypothesis to check f the diffrence between the groups of each column is really difference.
+        * Distributions of the numerical columns (later based on these results type of test is picked in hypothesis test)
+        * outlier/anamoly detection. Use specific method using the results of distributions.
+            IQR - Not normal (doesnt work on missing data)
+            Z-scores - Normal
+
+    1.2 Categorical columns
+        * Counter plots of each categorical column
+
+
+2. Bivariate Analysis
+
+    2.1 NUmerical columns
+        * VIF, multicollinearity
+
+
+3. Statustical INferences
+
+    3.1 Hypothesis 1: 
+            Null Hypothesis (H₀):
+                            The distribution of BMI is the same for individuals with and without stroke.
+                            → There is no statistically significant difference in BMI between the two groups.
+
+            Alternative Hypothesis (H₁):
+                            The distribution of BMI is different for individuals with and without stroke.
+                            → There is a statistically significant difference in BMI between the two groups.
+
+
+
+    3.2 Hypothesis 2:
